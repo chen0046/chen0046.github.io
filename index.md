@@ -2,7 +2,7 @@
 layout: default
 ---
 # Barchart
-{% include crime_bar_chart_by_year.html %}
+{% include crime_visualization.html %}
 # Heatmap
 {% include crime_heatmap.html %}
 
