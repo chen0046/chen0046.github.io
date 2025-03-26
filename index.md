@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+# Barchart
+<iframe src="crime_bar_chart_by_year.html" width="100%" height="500px"></iframe>
+
+# Heatmap
+<iframe src="crime_heatmap.html" width="100%" height="500px"></iframe>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
