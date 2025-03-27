@@ -25,7 +25,7 @@ The number of **Robbery** cases fluctuated, rising in some years and falling in 
 
 Overall, there is no clear correlation between these three types of crimes. However, we can suspect that some assault cases may be turning into weapon law cases, as assault cases are decreasing while weapon law cases are increasing.
 
-# Where Do Crimes Occur?
+## Where Do Crimes Occur?
 
 Crime doesn’t happen randomly—it follows patterns. To uncover them, we mapped **assault, robbery, and weapon-related crimes**, using heatmaps and pinpointing high-frequency locations. You can toggle between these views to explore the trends.
 
@@ -36,5 +36,9 @@ One clear takeaway: **assaults are the most widespread, covering nearly the enti
 Interestingly, **assault and robbery hotspots often overlap**, suggesting robberies frequently involve violence. Some areas may even harbor **organized crime or repeat offenders**. **Weapon-related crimes, while partially overlapping, are more dispersed**, indicating their involvement in **various offenses beyond violence, such as illegal possession or drug trade**.
 
 By mapping crime trends, **law enforcement can allocate resources more effectively**, targeting high-risk areas to enhance urban safety.
+
+# Title
+{% include crime_trends_with_regression_bokeh.html%}
+
 
 # Conclusion 
