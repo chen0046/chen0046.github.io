@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Trends and correlations of weapon/assault and robbery crimes in San Francisco
+
 Crime is a complex and multidimensional social phenomenon, taking various forms and exerting far-reaching impacts. Although different types of crime vary in nature and consequences, they are often not isolated but interconnected in certain ways.  
 
 Understanding the relationships between different crimes, visualizing data, and analyzing crime trends are crucial for developing effective law enforcement strategies and crime prediction models. For instance, incidents of lost or stolen weapons may lead to firearms falling into the hands of criminals, thereby increasing the risk of violent assaults or robberies. This potential evolutionary pathway highlights the necessity of systematic data analysis to identify underlying crime chains and triggering factors.  
