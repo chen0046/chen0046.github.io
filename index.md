@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Assignment 2
+
 # Trends and correlations of weapon/assault and robbery crimes in San Francisco
 Crime is a complex and multidimensional social phenomenon, taking various forms and exerting far-reaching impacts. Although different types of crime vary in nature and consequences, they are often not isolated but interconnected in certain ways.  
 
