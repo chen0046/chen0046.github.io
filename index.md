@@ -28,7 +28,7 @@ Looking at the hourly distribution, we observe that crime cases are lowest betwe
 
 Year: <br>
 From the annual perspective, we can observe that the frequency of violations of Weapon Laws has shown an upward trend over the years. In contrast, Assault cases have been  decreasing over the years, significantly dropped by 20% from the year 2017 to 2018.
-The number of Robbery cases fluctuated, rising in some years and falling in others, but in 2024 the cases dropped by nearly 50%. This is the same as the crime control board provided by the official website of the former San Francisco Police Bureau[\[3\]](https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard).<br>
+The number of Robbery cases fluctuated, rising in some years and falling in others, but in 2024 the cases dropped by nearly 50%. This finding is the same as the crime control board provided by the official website of the former San Francisco Police Bureau[\[3\]](https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard).<br>
 
 Overall, there is no clear correlation between these three types of crimes. However, we can suspect that some assault cases may be turning into weapon law cases, as assault cases are decreasing while weapon law cases are increasing.
 
@@ -38,7 +38,7 @@ Crime doesn’t happen randomly—it follows patterns. To uncover them, we mappe
 
 {% include crime_heatmap.html %}
 
-One clear takeaway: assaults are the most widespread, covering nearly the entire city, while robbery and weapon crimes cluster in specific areas, particularly the southern Northern District and Mission District—bustling areas where dense crowds may heighten conflict risks. This can also be found in the real-time crime data of the San Francisco[\[4\]](https://www.civichub.us/ca/san-francisco/gov/police-department/crime-data).
+One clear takeaway: assaults are the most widespread, covering nearly the entire city, while robbery and weapon crimes cluster in specific areas, particularly the southern Northern District and Mission District—bustling areas where dense crowds may heighten conflict risks. This conclusion can also be found in the real-time crime data of the San Francisco[\[4\]](https://www.civichub.us/ca/san-francisco/gov/police-department/crime-data).
 
 Interestingly, assault and robbery hotspots often overlap, suggesting robberies frequently involve violence. Some areas may even harbor organized crime or repeat offenders. Weapon-related crimes, while partially overlapping, are more dispersed, indicating their involvement in various offenses beyond violence, such as illegal possession or drug trade.
 
