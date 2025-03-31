@@ -60,6 +60,6 @@ Understanding the trends and correlations between assault, robbery, and weapon-r
 
 [2]Hipp, John R., and Rebecca Wickes. "Violence in urban neighborhoods: A longitudinal study of collective efficacy and violent crime." Journal of Quantitative Criminology 33 (2017): 783-808.<br>
 
-[3]San Francisco Police Department. (n.d.). Crime data dashboard. San Francisco Police Department. https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard<br>
+[3]San Francisco Police Department. (n.d.). Crime data dashboard. San Francisco Police Department. https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard. (Retrieved March 31, 2025).<br>
 
-[4]Civic Hub. (n.d.). Crime data – San Francisco Police Department. Civic Hub. https://www.civichub.us/ca/san-francisco/gov/police-department/crime-data
+[4]Civic Hub. (n.d.). Crime data – San Francisco Police Department. Civic Hub. https://www.civichub.us/ca/san-francisco/gov/police-department/crime-data. (Retrieved March 31, 2025).
